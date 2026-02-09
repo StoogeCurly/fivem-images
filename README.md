@@ -1,2 +1,0 @@
-# fivem-images
-fivem images
